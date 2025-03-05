@@ -140,4 +140,6 @@ Feel free to contribute by forking the repo, making improvements, and submitting
 
 ![image](https://github.com/user-attachments/assets/b285387d-aa68-4a29-b0ef-c36baba3fcee)
 ![image](https://github.com/user-attachments/assets/e34ca369-2de3-4777-9391-3cc5eb90bd40)
-![image](https://github.com/user-attachments/assets/c914d920-929c-4273-82f1-98c2bbae0890)
+![image](https://github.com/user-attachments/assets/25ad828e-ebc5-49a0-a0af-65f7e18db1c2)
+![image](https://github.com/user-attachments/assets/c22017ad-3766-4e23-96d5-b905b1a90647)
+
